@@ -24,7 +24,7 @@ ADR;CHARSET=UTF-8;TYPE=WORK:;;123 Corporate Loop\nSuite 500;Los Angeles;CA;12345
 TITLE;CHARSET=UTF-8:Crash Test Dummy
 ROLE;CHARSET=UTF-8:Crash Testing
 ORG;CHARSET=UTF-8:ACME Corporation
-URL;CHARSET=UTF-8:http://johndoe
+URL;LABEL="Auf Google bewerten":https://example.com
 URL;type=WORK;CHARSET=UTF-8:http://acemecompany/johndoe
 NOTE;CHARSET=UTF-8:John Doe's \nnotes\;\,
 X-SOCIALPROFILE:TYPE=facebook:https://facebook/johndoe
@@ -33,5 +33,5 @@ X-SOCIALPROFILE:TYPE=twitter:https://twitter/johndoe
 X-SOCIALPROFILE:TYPE=flickr:https://flickr/johndoe
 X-SOCIALPROFILE:TYPE=custom:https://custom/johndoe
 SOURCE;CHARSET=UTF-8:http://sourceurl
-REV:2025-07-08T15:45:37.369Z
+REV:2025-07-08T15:56:36.395Z
 END:VCARD
